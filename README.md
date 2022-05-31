@@ -1,4 +1,4 @@
-### Hello, I'm H.S.LEE 
+## Hello, I'm H.S.LEE 
 
 - 🌱 I’m currently learning JAVA, SPRING, BACKEND
 - 🤔 My major : Statistics
@@ -11,3 +11,4 @@
 <!-- - 💬 Ask me about ... -->
 <!-- 🔭 I’m currently working on ...-->
 <!-- - 😄 Pronouns: ... -->
+ 
