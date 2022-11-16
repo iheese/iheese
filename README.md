@@ -1,6 +1,6 @@
 ## Hello, I'm H.S.LEE 
 
-- 🌱 I’m currently learning JAVA, SPRING, BACKEND
+- 🌱 I’m currently studying JAVA, SPRING, BACKEND
 - 🤔 My major : Statistics
 - 📫 How to reach me : [imbc0224@gmail.com](https://iheese.github.io/contact/)
 - 😁 My blog address : https://iheese.github.io/
