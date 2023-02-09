@@ -1,7 +1,7 @@
 ## Hello, I'm H.S.LEE 
 
-- 🌱 I’m currently studying JAVA, SPRING, BACKEND
-- 🤔 My major : Statistics
+- 🌱 I’m always studying JAVA, SPRING, BACKEND, INFRA
+- 🤔 I'm working with Code!
 - 📫 How to reach me : [imbc0224@gmail.com](https://iheese.github.io/contact/)
 - 😁 My blog address : https://iheese.github.io/
 - ⚡ What i like : New things, Coffee
