@@ -6,6 +6,8 @@
 - 😁 My blog address : https://iheese.github.io/
 - ⚡ What i like : New things, Coffee
 
+  ![hits](https://komarev.com/ghpvc/?username=iheese&color=blue&label=HITS&style=plastic)
+
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
